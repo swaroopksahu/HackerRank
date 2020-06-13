@@ -7,7 +7,7 @@ import java.util.Comparator;
 /**
  * 
  * @author swaroopksahu
- * @category Introduction
+ * @category Data Structures
  * @since June 2020
  * @version 1.0
  * @see <a href="https://github.com/swaroopksahu">GitHub - swaroopksahu</a>
